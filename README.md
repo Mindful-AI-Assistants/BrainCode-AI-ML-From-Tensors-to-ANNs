@@ -15,7 +15,12 @@
 </p>
 
 
+
+##### <p align="center"> [What is Gradient Descent ?](https://github.com/Mindful-AI-Assistants/BrainCode-AI-ML-From-Tensors-to-ANNs/blob/c9ff2cd59134d1f4cd56c39548dcdcfb80f534b0/%20What%20is%20Gradient%20Descent%3F.md)
+
 <br><br>
+
+
 
 <!--Sponsor tBAdge -->
 
