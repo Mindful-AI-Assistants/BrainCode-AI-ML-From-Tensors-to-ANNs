@@ -1,6 +1,8 @@
 
 # Framework Web Application:
+
 Django==5.2.7
+
 
 
 # Data Manipulation Libraries:
