@@ -1,25 +1,29 @@
 
 # Framework Web Application:
-Django==5.1.15
+
+Django==5.2.7
+
 
 
 # Data Manipulation Libraries:
-numpy==2.2.3
+numpy==2.3.4
 pandas==2.3.3
 
 # Data Visualization Libraries:
-matplotlib==3.10.1
+matplotlib==3.10.7
 seaborn==0.13.2
 
 # Data Analysis Libraries:
-scipy==1.15.2
-scikit-learn==1.6.1
+
+scikit-learn==1.7.2
+scipy==1.16.2
+
 
 # Machine Learning Libraries:
 tensorflow==2.20.0
-keras==3.11.3
+keras==3.13.1
 tensorflow==2.20.0
-keras==3.11.3
+keras==3.13.1
 
 
 # Natural Language Processing Libraries:
